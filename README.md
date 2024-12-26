@@ -14,6 +14,7 @@ To read this book *for free*, see [BOOK.md](https://github.com/bitcoinbook/bitco
 
 _Please note that some of the links in each chapter do not work when reading the book on Github. This is because those links are intended for the print and ebook editions of the book and only work when all the chapters are rendered together. Unfortunatelly, Github does not have the ability to render the complete book at once._
 
+<!-- /* This section no longer applies -harding */
 ## Where is the PDF?
 
 **The current edition is not available as a PDF, deliberately**. Why? Because the publisher (O'Reilly Media) is a for-profit publisher who puts considerable resources behind producing, editing and distributing this book. The third edition of "Mastering Bitcoin" is available under a CC-BY-NC-ND license, not a CC-BY-SA license. The book will eventually (within a year of publication) be released under a CC-BY-SA license, at which point PDF copies and translations will be allowed (a PDF is a "derivative" product, which is what the "ND-NoDerivatives" part of the license prohibits). 
@@ -21,6 +22,7 @@ _Please note that some of the links in each chapter do not work when reading the
 Making PDF copies violates the license and interferes with the publisher's and the authors' ability to earn from their work. Furthermore, if you make it so the publisher can't recoup their investment, they may delay the release into CC-BY-SA. A beautifully rendered PDF or epub version of this book is offered for sale by the publisher. Convenient packaging is the for-profit product, whereas the version available here is slightly less convenient but entirely free for personal and non-commercial use. If you want convenience and nice packaging, buy the book!
 
 Please don't create or distribute PDFs until the license is changed to CC-BY-SA. It is rare for a publisher to even agree to a CC-BY-NC-ND license. Don't make it harder for free culture by violating even that, already generous, license. 
+-->
 
 # Mastering Bitcoin Third Edition
 
@@ -32,7 +34,7 @@ Please don't create or distribute PDFs until the license is changed to CC-BY-SA.
 
 The tag [third_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/releases/tag/third_edition_print1) corresponds to the first print of the third edition of Mastering Bitcoin as published in paperback and ebook by O'Reilly Media in December 2023.
 
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Mastering Bitcoin: Programming the Open Blockchain (Third Edition)</span> by <span property="cc:attributionName">Andreas M. Antonopoulos, David A. Harding</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-NoDerivatives 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg"></a></p> 
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Mastering Bitcoin: Programming the Open Blockchain (Third Edition)</span> by <span property="cc:attributionName">Andreas M. Antonopoulos, David A. Harding</span> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 # Other Editions and Languages
 
